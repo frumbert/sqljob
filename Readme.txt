@@ -10,7 +10,7 @@ Why?
 
 You might want to be able to create an update / insert command for pushing some kind of data around in the database. Or perform an arbitrary sql command on a schedule.
 
-This plugin gives you the power to do anything the database user has permission to do.
+This plugin gives you the power to do anything the database user has permission to do. With great power comes great responsibility!
 
 Licence:
 --------
